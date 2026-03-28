@@ -1,3 +1,3 @@
 public static void main () {
-    print("not like this one ")
+    print("not like this test today")
 }
